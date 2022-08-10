@@ -21,8 +21,11 @@ def main():
         elif(opp == "/"):
             print(x / y)
         
-        else : 
+        elif (opp == "%"): 
             print(x % y)
+        else:
+            print("Enter a valid operation")
+
     
 
 
