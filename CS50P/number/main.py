@@ -8,7 +8,8 @@ def main():
         except ValueError:
             print("plz enter a integer.")
         else:
-             print("your number is :",x)
+            pass
+            #  print("your number is :",x)
             # break
 
     # print("your number is :",x)
