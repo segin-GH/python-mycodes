@@ -8,10 +8,10 @@ def main():
         except ValueError:
             print("plz enter a integer.")
         else:
-            # print("your number is :",x)
-            break
+             print("your number is :",x)
+            # break
 
-    print("your number is :",x)
-    
-        
+    # print("your number is :",x)
+
+
 main()
