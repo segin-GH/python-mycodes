@@ -1,8 +1,4 @@
 
-
-from pickle import TRUE
-
-
 def main():
     number = get_number()
     print_meow(number)
