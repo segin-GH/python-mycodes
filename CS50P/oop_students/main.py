@@ -7,9 +7,11 @@ def main():
 
 
 def get_students():
-   name = input("Name: ")
-   house = input("House: ")
-   return name, house
+    name = input("Name: ")
+    house = input("House: ")
+    return name, house
+    # return [name, house]
+
 
 
 
