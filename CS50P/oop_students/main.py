@@ -1,19 +1,14 @@
 
-
-
 def main():
     student = get_students()
-    print(f"{student[0]} is from {student[1]}")
+    print(f"{student['name']} is from {student['house']}")
 
 
 def get_students():
-    name = input("Name: ")
-    house = input("House: ")
-    return name, house
-    # return [name, house]
-
-
-
+    student = {}
+    student ["name"] = input("name: ")
+    student ["house"] = input("House: ")
+    return student
 
 if __name__ == "__main__":
     main()
