@@ -1,5 +1,4 @@
 
-
 def main():
     x = int(input("enter a number : "))
     print(f"squar of {x} is",sqr(x))
@@ -7,7 +6,7 @@ def main():
 
 
 def sqr(num):
-    return num + num
+    return num * num
 
 
 
