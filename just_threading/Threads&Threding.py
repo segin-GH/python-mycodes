@@ -1,9 +1,10 @@
-
-from time import*
+import os
+from time import sleep
 from threading import Thread
 
 def box ():
     while True:
+        print(os.getpid())
         print("my box is open")
         sleep(5)
         print("my box is close")
@@ -11,6 +12,7 @@ def box ():
 
 def led():
     while True:
+        print(os.getpid())
         print("my led is on")
         sleep(2)
         print("my led is off")
