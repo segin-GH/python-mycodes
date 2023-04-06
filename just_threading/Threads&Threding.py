@@ -20,13 +20,13 @@ def main():
             print("my led is off")
             sleep(2)
 
-    boxthread = Thread(target=box)
-    ledthread = Thread(target=led)
-    boxthread.daemon = True
-    ledthread.daemon = True
+    boxThread = Thread(target=box)
+    ledThread = Thread(target=led)
+    boxThread.daemon = True
+    ledThread.daemon = True
 
-    boxthread.start()
-    ledthread.start()
+    boxThread.start()
+    ledThread.start()
 
     while (True):
         pass
