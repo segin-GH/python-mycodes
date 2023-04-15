@@ -48,7 +48,7 @@ list version
 ```sh
 pyenv install --list
 ```
-install
+install any version you want
 ```sh
 pyenv install <your-verion>
 ```
