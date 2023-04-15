@@ -33,7 +33,6 @@ echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
 Add pyenv init to the shell which enables shims and autocompletion
 ```
 echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nfi' >> ~/.zshrc
-
 ```
 Restart your shell
 
