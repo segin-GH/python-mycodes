@@ -13,6 +13,10 @@ To Deactivate
 ```sh
 pyenv deactivate
 ```
+# How to delete
+```sh
+pyenv virtualenv-delete <name-of-virtual-enve>
+```
 
 # How to isntall
 
