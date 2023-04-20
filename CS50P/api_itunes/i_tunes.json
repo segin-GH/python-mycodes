@@ -1,40 +1,38 @@
-
 {
-   "resultCount": 1,
-   "results": 
-   [
-      {
-         "wrapperType": "track",
-         "kind": "song",
-         "artistId": 1062085272,
-         "collectionId": 1445140820,
-         "trackId": 1445141316,
-         "artistName": "Alan Walker",
-         "collectionName": "Different World",
-         "trackName": "Faded",
-         "collectionCensoredName": "Different World",
-         "trackCensoredName": "Faded",
-         "artistViewUrl": "https://music.apple.com/us/artist/alan-walker/1062085272?uo=4",
-         "collectionViewUrl": "https://music.apple.com/us/album/faded/1445140820?i=1445141316&uo=4",
-         "trackViewUrl": "https://music.apple.com/us/album/faded/1445140820?i=1445141316&uo=4",
-         "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d2/c1/c4/d2c1c496-4001-d10f-bbf6-626eb5bcf2cf/mzaf_7717849628751219162.plus.aac.p.m4a",
-         "artworkUrl30": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/7b/37/53/7b375382-ce23-cfa4-03d4-1db4b0f89d72/886447442562.jpg/30x30bb.jpg",
-         "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/7b/37/53/7b375382-ce23-cfa4-03d4-1db4b0f89d72/886447442562.jpg/60x60bb.jpg",
-         "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/7b/37/53/7b375382-ce23-cfa4-03d4-1db4b0f89d72/886447442562.jpg/100x100bb.jpg",
-         "collectionPrice": 9.99,
-         "trackPrice": 1.29,
-         "releaseDate": "2015-12-03T12:00:00Z",
-         "collectionExplicitness": "notExplicit",
-         "trackExplicitness": "notExplicit",
-         "discCount": 1,
-         "discNumber": 1,
-         "trackCount": 14,
-         "trackNumber": 15,
-         "trackTimeMillis": 212107,
-         "country": "USA",
-         "currency": "USD",
-         "primaryGenreName": "Dance",
-         "isStreamable": true
-      }
-   ]
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 1062085272,
+      "collectionId": 1445140820,
+      "trackId": 1445141316,
+      "artistName": "Alan Walker",
+      "collectionName": "Different World",
+      "trackName": "Faded",
+      "collectionCensoredName": "Different World",
+      "trackCensoredName": "Faded",
+      "artistViewUrl": "https://music.apple.com/us/artist/alan-walker/1062085272?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/faded/1445140820?i=1445141316&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/faded/1445140820?i=1445141316&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d2/c1/c4/d2c1c496-4001-d10f-bbf6-626eb5bcf2cf/mzaf_7717849628751219162.plus.aac.p.m4a",
+      "artworkUrl30": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/7b/37/53/7b375382-ce23-cfa4-03d4-1db4b0f89d72/886447442562.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/7b/37/53/7b375382-ce23-cfa4-03d4-1db4b0f89d72/886447442562.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/7b/37/53/7b375382-ce23-cfa4-03d4-1db4b0f89d72/886447442562.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "trackPrice": 1.29,
+      "releaseDate": "2015-12-03T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 14,
+      "trackNumber": 15,
+      "trackTimeMillis": 212107,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Dance",
+      "isStreamable": true
+    }
+  ]
 }

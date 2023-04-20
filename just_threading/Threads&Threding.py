@@ -1,6 +1,6 @@
 import os
-from time import sleep
 from threading import Thread
+from time import sleep
 
 
 def main():
@@ -28,7 +28,7 @@ def main():
     boxThread.start()
     ledThread.start()
 
-    while (True):
+    while True:
         pass
 
 

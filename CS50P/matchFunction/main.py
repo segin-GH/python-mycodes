@@ -1,6 +1,4 @@
-
 def main():
-
     name = input("what is your name? ")
     match name:
         case "harry" | "hermione" | "ron" | "ginny":
@@ -9,7 +7,6 @@ def main():
             print("slytherin")
         case _:
             print("who ?")
-
 
     # match name:
     #     case "harry":
@@ -24,4 +21,4 @@ def main():
     #         print("who ?")
 
 
-main() 
+main()

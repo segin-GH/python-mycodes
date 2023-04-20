@@ -1,5 +1,3 @@
-
-
 def main():
     hello("World")
     goodbye("World")
@@ -8,9 +6,9 @@ def main():
 def hello(name):
     print(f"Hello,{name}")
 
+
 def goodbye(name):
     print(f"goodBye,{name}")
-
 
 
 if __name__ == "__main__":

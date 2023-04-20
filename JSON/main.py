@@ -65,7 +65,7 @@ import json
 
 # **********************************************************************
 
-with open("setting.json", 'r') as f:
+with open("setting.json", "r") as f:
     data = json.load(f)
 
 keys = data.keys()
@@ -77,5 +77,5 @@ for key in keys:
 
 data["totalDevices"] = count
 
-with open(".config.json", 'w') as f:
+with open(".config.json", "w") as f:
     json.dump(data, f, indent=4)

@@ -1,15 +1,10 @@
-
-
-
-
-def main ():
+def main():
     # name = input("enter your name ? ")
     # file = open("name.txt","a")
     # file.write(f"{name}\n")
     # file.close()
 
     printName()
-
 
 
 def printName():
@@ -20,7 +15,6 @@ def printName():
 
     for line in sorted(name):
         print(f"hello,{line}")
-
 
 
 if __name__ == "__main__":

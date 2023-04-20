@@ -1,16 +1,14 @@
-
 import sys
 
 
 def main():
-    
-        try:
-            print("hello,",sys.argv[1])
-        
-        except:
+    try:
+        print("hello,", sys.argv[1])
 
-            print("Error ::  Did you write your name ? ")
-
+    # trunk-ignore(ruff/E722)
+    except:
+        print("Error ::  Did you write your name ? ")
 
 
-main()
+if __name__ == "__main__":
+    main()

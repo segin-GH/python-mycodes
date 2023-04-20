@@ -1,22 +1,22 @@
 {
-    "MSTR": {
-        "isConnected": false,
-        "DEV1": "PDB"
-    },
-    "SLV1": {
-        "isConnected": false,
-        "DEV1": "CAS1",
-        "DEV2": "CAS2"
-    },
-    "SLV2": {
-        "isConnected": false,
-        "DEV1": "CAS3",
-        "DEV2": "CAS4"
-    },
-    "SLV3": {
-        "isConnected": false,
-        "DEV1": "ACS",
-        "DEV2": "FP"
-    },
-    "totalDevices": 4
+  "MSTR": {
+    "isConnected": false,
+    "DEV1": "PDB"
+  },
+  "SLV1": {
+    "isConnected": false,
+    "DEV1": "CAS1",
+    "DEV2": "CAS2"
+  },
+  "SLV2": {
+    "isConnected": false,
+    "DEV1": "CAS3",
+    "DEV2": "CAS4"
+  },
+  "SLV3": {
+    "isConnected": false,
+    "DEV1": "ACS",
+    "DEV2": "FP"
+  },
+  "totalDevices": 4
 }

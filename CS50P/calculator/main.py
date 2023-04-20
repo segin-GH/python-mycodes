@@ -1,33 +1,26 @@
-
-
 def main():
-
-    while(True):
-
+    while True:
         x = int(input("Enter x : "))
         y = int(input("Enter y : "))
 
-        opp = input("Enter the opperation( +, -, *, /, % ) : ") 
-        
-        if(opp == "+"):
+        opp = input("Enter the opperation( +, -, *, /, % ) : ")
+
+        if opp == "+":
             print(x + y)
 
-        elif(opp == "-"):
+        elif opp == "-":
             print(x - y)
-        
-        elif(opp == "*"):
+
+        elif opp == "*":
             print(x * y)
 
-        elif(opp == "/"):
+        elif opp == "/":
             print(x / y)
-        
-        elif (opp == "%"): 
+
+        elif opp == "%":
             print(x % y)
         else:
             print("Enter a valid operation")
-
-    
-
 
 
 main()

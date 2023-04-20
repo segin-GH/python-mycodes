@@ -1,8 +1,3 @@
-
-
-from traceback import print_list
-
-
 def main():
     # for i in range(3):
     #     for j in range(3):
@@ -11,9 +6,9 @@ def main():
     #     print()
 
     for i in range(4):
+        print("." * i)
 
-            print("." * i)
-    
     print()
 
-main ()
+
+main()

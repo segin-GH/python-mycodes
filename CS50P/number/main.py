@@ -1,10 +1,7 @@
-
-
 def main():
-
     while True:
         try:
-            x = int((input("Enter a number : ")))
+            int((input("Enter a number : ")))
         except ValueError:
             print("plz enter a integer.")
         else:
