@@ -18,7 +18,7 @@ To Deactivate
 pyenv deactivate
 ```
 
-# How to delete
+How to delete
 
 ```sh
 pyenv virtualenv-delete <name-of-virtual-enve>
