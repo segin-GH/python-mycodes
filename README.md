@@ -24,7 +24,7 @@ to delete
 pyenv virtualenv-delete <name-of-virtual-enve>
 ```
 
-# How to isntall
+# How to install
 
 Dependecies
 
